@@ -1,0 +1,75 @@
+
+<lcgdict>
+    <selection>
+
+
+        <class name="std::vector<cepcsw::SimPrimaryIonizationClusterData>" />
+        <class name="cepcsw::SimPrimaryIonizationClusterData">
+            <field name="m_registry" transient="true"/>
+            <field name="m_container" transient="true"/>
+        </class>
+
+
+        <class name="std::vector<cepcsw::SimPrimaryIonizationCluster>" />
+        <class name="cepcsw::SimPrimaryIonizationCluster">
+            <field name="m_registry" transient="true"/>
+            <field name="m_container" transient="true"/>
+        </class>
+
+
+        <class name="std::vector<cepcsw::ConstSimPrimaryIonizationCluster>" />
+        <class name="cepcsw::ConstSimPrimaryIonizationCluster">
+            <field name="m_registry" transient="true"/>
+            <field name="m_container" transient="true"/>
+        </class>
+
+
+        <class name="std::vector<cepcsw::SimPrimaryIonizationClusterCollection>" />
+        <class name="cepcsw::SimPrimaryIonizationClusterCollection">
+            <field name="m_registry" transient="true"/>
+            <field name="m_container" transient="true"/>
+        </class>
+
+
+        <class name="std::vector<cepcsw::SimPrimaryIonizationClusterObj>" />
+        <class name="cepcsw::SimPrimaryIonizationClusterObj">
+            <field name="m_registry" transient="true"/>
+            <field name="m_container" transient="true"/>
+        </class>
+
+        <class name="std::vector<cepcsw::SimIonizationData>" />
+        <class name="cepcsw::SimIonizationData">
+            <field name="m_registry" transient="true"/>
+            <field name="m_container" transient="true"/>
+        </class>
+
+
+        <class name="std::vector<cepcsw::SimIonization>" />
+        <class name="cepcsw::SimIonization">
+            <field name="m_registry" transient="true"/>
+            <field name="m_container" transient="true"/>
+        </class>
+
+
+        <class name="std::vector<cepcsw::ConstSimIonization>" />
+        <class name="cepcsw::ConstSimIonization">
+            <field name="m_registry" transient="true"/>
+            <field name="m_container" transient="true"/>
+        </class>
+
+
+        <class name="std::vector<cepcsw::SimIonizationCollection>" />
+        <class name="cepcsw::SimIonizationCollection">
+            <field name="m_registry" transient="true"/>
+            <field name="m_container" transient="true"/>
+        </class>
+
+
+        <class name="std::vector<cepcsw::SimIonizationObj>" />
+        <class name="cepcsw::SimIonizationObj">
+            <field name="m_registry" transient="true"/>
+            <field name="m_container" transient="true"/>
+        </class>
+
+    </selection>
+</lcgdict>
